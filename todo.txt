@@ -1,0 +1,5 @@
+-->need to convert images to pixel format csv files
+-->need to know about architecture
+-->to experiment some networks
+-->get best accuracy
+-->do documentation and submit
