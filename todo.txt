@@ -6,6 +6,16 @@
 
 
 14/6/2022
+                                                             
+-->data remove \r\n make like fer-2013 csv found in online ✅
+-->try https://www.analyticsvidhya.com/blog/2021/11/facial-emotion-detection-using-cnn/ this on fer-2013 and on our own made dataset ✅
+-->conlusion - no need to convert images like that we can use fer2013.csv or we can use imagedatagen kind of function instead of converting the image to pixels
+-->find the kaggle previous code notebooks
+-->check vgg16 network for model architecture
 
--->data remove \r\n make like fer-2013 csv found in online
--->try https://www.analyticsvidhya.com/blog/2021/11/facial-emotion-detection-using-cnn/ this on fer-2013 and on our own made dataset
+16/6/2022
+-->plan how to run model effeciently colab or kaggle or somewhere
+-->try to use free platform to make use of gpu or tpu
+-->find the tech stacks to build ui components for emotion detection
+-->make a rough design of the gui in paint or somewhere
+
