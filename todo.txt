@@ -19,3 +19,10 @@
 -->find the tech stacks to build ui components for emotion detection
 -->make a rough design of the gui in paint or somewhere
 
+-----------------------------------------------
+Useful links:
+--> https://www.youtube.com/watch?v=i_-m1kBTdBI -- (face detection) use for webcam 
+--> https://www.youtube.com/watch?v=qzFQEGEbzNY -- live emotion detection
+--> https://www.youtube.com/watch?v=2mN7ygkc2XU -- emotion detection from photo
+--> https://www.youtube.com/watch?v=fkgpvkqcoJc -- live emotion detection
+--> https://www.youtube.com/watch?v=G1Uhs6NVi-M -- live emotion detection
