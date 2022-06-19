@@ -26,3 +26,4 @@ Useful links:
 --> https://www.youtube.com/watch?v=2mN7ygkc2XU -- emotion detection from photo
 --> https://www.youtube.com/watch?v=fkgpvkqcoJc -- live emotion detection
 --> https://www.youtube.com/watch?v=G1Uhs6NVi-M -- live emotion detection
+--> https://github.com/MayankBimbra/Real-Time-Facial-Emotions-Detection-Model-using-a-Web-Interface/blob/master/LCO17369%2C%20LCO17367%20Project%20Report%20(Real%20Time%20Emotion%20Detection%20on%20Web%20Interface%20using%20Python).docx -- can be used to refer for documentation
