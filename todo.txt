@@ -32,3 +32,7 @@ Useful links:
 
 --> need to create virtual environment to make requirements.txt (for running model and for face emotion web app)
 --> if possible make a bat file and bash file for users
+--> documentation
+--> video div to show dummy thing
+--> emoji changing
+--> show image in place of image upload 
