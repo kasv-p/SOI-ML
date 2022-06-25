@@ -37,7 +37,7 @@ https://github.com/kasv-p/SOI-ML.git
 ```
 cd SOI-ML
 ```
-4. Run ***one*** of these commands to install tkinter, depending upon your system's python configuration (python / python3).
+4. Create virtual environment and activates the virtual environment on executing the following commands.
 
 ```
 sudo apt-get install python3-tk
@@ -46,35 +46,27 @@ sudo apt-get install python3-tk
 sudo apt-get install python-tk
 ```
 
-5. Execute the **_setup.sh_** file to install dependencies and create `run.sh` file.
-
+5. Later run the following commands to install the required libraries and modules
 ```
-chmod 755 setup.sh && ./setup.sh
-```
-
-_When prompted, choose whether to install packages on a virtual environment. **yes** recommended_
-
-6. Host the web-app locally using the following command
-
-```
-./run.sh
+pip install -r requirements.txt
 ```
 
-Once the setup is complete, the web-app can be opened using _loalhost_ **_[Port 8501](http://localhost:8501)_**.
+6. Once the setup is complete, the web-app can be opened using _loalhost_ **_[Port 5000](http://localhost:500)_**.
 **Use Ctrl+C inside the terminal to stop.**
 
 ### Important
 
-**_Once the app is setup, you can host the web-app using only step 5._**
+**_Once the app is setup, you can host the web-app using only step 6._**
 
 ### Using the application
 
-1. Initially upload a csv file in the format shown in the web-app.
-2. Next navigate to the **_Docs_** tab from the side nav bar.
-3. Detailed instructions on using the application is given, including a short video.
+1. Once you start the web app the camera opens up by default and detects the emotion you stop the camera by using start/stop button.
+2. Navigation bar can be used to go the image uplaod section.
+3. In the image upload section you can determine the emotion of our own image by uploadin the image and can get the result after the page get reloaded.
+
 
 ### Note
-
+- For the live detection of emotion we have used model created by us and for the image upload part we used DeepFace module to get the emotion detected.
 - The notebook and data used for training can be found under the following directories:
 
   1. `ML/SDS_MODEL.ipynb`
