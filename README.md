@@ -4,7 +4,7 @@
 
 ## Team Know
 
-This is a webpage created for facial emotion recognition.
+This is a web application created for facial emotion recognition.
 
 ### Techstacks Used
 1. HTML
@@ -35,7 +35,7 @@ https://github.com/kasv-p/SOI-ML.git
 3. Run the following command to move into the cloned repository.
 
 ```
-cd soi-space-ds
+cd SOI-ML
 ```
 4. Run ***one*** of these commands to install tkinter, depending upon your system's python configuration (python / python3).
 
