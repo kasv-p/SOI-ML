@@ -1,4 +1,4 @@
-# Summer of Innovation 2022 Space Data Science
+# Summer of Innovation 2022 EMOTOR
 
 ### This software is shared under MIT License.
 
@@ -29,7 +29,7 @@ This is a webpage created for facial emotion recognition.
 2. Clone this repository in any directory of your choice.
 
 ```
-git clone https://github.com/shashankp28/soi-space-ds.git
+https://github.com/kasv-p/SOI-ML.git
 ```
 
 3. Run the following command to move into the cloned repository.
