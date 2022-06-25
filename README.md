@@ -14,7 +14,7 @@ This is a webpage created for facial emotion recognition.
 
 ### Libraries Used
 1. Tensorflow
-2. Kera
+2. Keras
 3. OpenCV
 4. DeepFace
 
@@ -23,9 +23,9 @@ This is a webpage created for facial emotion recognition.
 1. Python / Python3 installed.
 2. Latest version of `pip` installed.
 
-### Steps
+### Steps To SetUp
 
-1. Open your bash terminal.
+1. Open your terminal.
 2. Clone this repository in any directory of your choice.
 
 ```
