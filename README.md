@@ -51,7 +51,7 @@ need to be changed
 pip install -r requirements.txt
 ```
 
-6. Once the setup is complete, the web-app can be opened by executing a python script named app.py and application can be seen on port 5000 with the url _loalhost_ **_[Port 5000](http://localhost:500)_**.
+6. Once the setup is complete, the web-app can be opened by executing a python script named app.py using the command `python app.py` and application can be seen on port 5000 with the url _loalhost_ **_[Port 5000](http://localhost:500)_**.
 **Use Ctrl+C inside the terminal to stop.**
 
 ### Important
@@ -70,7 +70,6 @@ pip install -r requirements.txt
 - The notebook and data used for training can be found under the following directories:
 
   1. `ML/SDS_MODEL.ipynb`
-  2. `ML/data_full.csv`
      <br>
      <br>
 
