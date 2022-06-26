@@ -63,7 +63,6 @@ pip install -r requirements.txt
 - For the live detection of emotion we have used model created by us and for the image upload part we used DeepFace module to get the emotion detected.
 - EMOTOR.ipynb file contains the python script to the models we tried.
 - Documentation for ML model is named as `Documentation_EMOTOR.pdf`
-- Documentation for the Web-App can be found under the `Docs` tab of the Web-App itself.
 
 _CNN Model couldn't be incorporated as it's size was around 150MB and would not be feasible to store in github. The model can be downloaded fom Google Drive._
 
