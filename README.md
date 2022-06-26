@@ -37,13 +37,13 @@ https://github.com/kasv-p/SOI-ML.git
 ```
 cd SOI-ML
 ```
-4. Create virtual environment and activates the virtual environment on executing the following commands.
+4. Create virtual environment and activate the virtual environment on executing the following commands.
 
 ```
-sudo apt-get install python3-tk
+need to be changed
 ```
 ```
-sudo apt-get install python-tk
+need to be changed
 ```
 
 5. Later run the following commands to install the required libraries and modules
@@ -51,7 +51,7 @@ sudo apt-get install python-tk
 pip install -r requirements.txt
 ```
 
-6. Once the setup is complete, the web-app can be opened using _loalhost_ **_[Port 5000](http://localhost:500)_**.
+6. Once the setup is complete, the web-app can be opened by executing a python script named app.py and application can be seen on port 5000 with the url _loalhost_ **_[Port 5000](http://localhost:500)_**.
 **Use Ctrl+C inside the terminal to stop.**
 
 ### Important
@@ -61,7 +61,7 @@ pip install -r requirements.txt
 ### Using the application
 
 1. Once you start the web app the camera opens up by default and detects the emotion you stop the camera by using start/stop button.
-2. Navigation bar can be used to go the image uplaod section.
+2. Navigation bar can be used to go the image uplaod section and detect emotion section.
 3. In the image upload section you can determine the emotion of our own image by uploadin the image and can get the result after the page get reloaded.
 
 
