@@ -63,7 +63,7 @@ pip install -r requirements.txt
 - For the live detection of emotion we have used model created by us and for the image upload part we used DeepFace module to get the emotion detected.
 - [EMOTOR.ipynb](https://colab.research.google.com/drive/11KhTIPHSFAqxEwO42AwgD8hwVEl-mLpA?usp=sharing) file contains the python script to the models we tried.
 - kaggle.json file should be uploaded to download dataset from kaggle.
-- fer2013.csv should be uploaded to colab.
+- [fer2013.csv](https://drive.google.com/file/d/1S3oa7MXJYjdnbCAlGDM91DCaF3aDl45m/view?usp=sharing) should be uploaded to colab.
 - Documentation for ML model is named as `Documentation_EMOTOR.pdf`
 
 _CNN Model couldn't be incorporated as it's size was around 150MB and would not be feasible to store in github. The model can be downloaded fom Google Drive._
