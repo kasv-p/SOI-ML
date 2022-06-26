@@ -67,4 +67,4 @@ pip install -r requirements.txt
 
 _CNN Model couldn't be incorporated as it's size was around 150MB and would not be feasible to store in github. The model can be downloaded fom Google Drive._
 
-- Link to Model: [CNN Model]()
+- Link to Model: [CNN Model](https://drive.google.com/file/d/1MfVbOqYQuAe-sZ60HBUwri7BpFbqCfOy/view?usp=sharing)
