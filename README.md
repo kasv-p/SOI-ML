@@ -55,7 +55,7 @@ pip install -r requirements.txt
 ### Using the application
 
 1. Once you start the web app the camera opens up by default and detects the emotion you stop the camera by using start/stop button.
-2. Navigation bar can be used to go the image uplaod section and detect emotion section.
+2. Navigation bar can be used to go to the image uplaod section and detect emotion section.
 3. In the image upload section you can determine the emotion of our own image by uploadin the image and can get the result after the page get reloaded.
 
 
